@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\2.s\u0131n\u0131f 2.d\u00F6nem g\u00F6rsel programlama\\4.\u00F6dev\\Bankacilik_sifre_giris_sistemi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1C1E3E84-7FDC-4BFF-9DB0-B1F398D215AA}|Bankacilik_sifre_giris_sistemi\\Bankacilik_sifre_giris_sistemi.csproj|d:\\2.s\u0131n\u0131f 2.d\u00F6nem g\u00F6rsel programlama\\4.\u00F6dev\\bankacilik_sifre_giris_sistemi\\bankacilik_sifre_giris_sistemi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C1E3E84-7FDC-4BFF-9DB0-B1F398D215AA}|Bankacilik_sifre_giris_sistemi\\Bankacilik_sifre_giris_sistemi.csproj|solutionrelative:bankacilik_sifre_giris_sistemi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C1E3E84-7FDC-4BFF-9DB0-B1F398D215AA}|Bankacilik_sifre_giris_sistemi\\Bankacilik_sifre_giris_sistemi.csproj|D:\\2.s\u0131n\u0131f 2.d\u00F6nem g\u00F6rsel programlama\\4.\u00F6dev\\Bankacilik_sifre_giris_sistemi\\bankacilik_sifre_giris_sistemi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1C1E3E84-7FDC-4BFF-9DB0-B1F398D215AA}|Bankacilik_sifre_giris_sistemi\\Bankacilik_sifre_giris_sistemi.csproj|solutionrelative:bankacilik_sifre_giris_sistemi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C1E3E84-7FDC-4BFF-9DB0-B1F398D215AA}|Bankacilik_sifre_giris_sistemi\\Bankacilik_sifre_giris_sistemi.csproj|D:\\2.s\u0131n\u0131f 2.d\u00F6nem g\u00F6rsel programlama\\4.\u00F6dev\\Bankacilik_sifre_giris_sistemi\\bankacilik_sifre_giris_sistemi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C1E3E84-7FDC-4BFF-9DB0-B1F398D215AA}|Bankacilik_sifre_giris_sistemi\\Bankacilik_sifre_giris_sistemi.csproj|solutionrelative:bankacilik_sifre_giris_sistemi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\2.s\u0131n\u0131f 2.d\u00F6nem g\u00F6rsel programlama\\4.\u00F6dev\\Bankacilik_sifre_giris_sistemi\\Bankacilik_sifre_giris_sistemi\\Program.cs",
+              "RelativeDocumentMoniker": "Bankacilik_sifre_giris_sistemi\\Program.cs",
+              "ToolTip": "D:\\2.s\u0131n\u0131f 2.d\u00F6nem g\u00F6rsel programlama\\4.\u00F6dev\\Bankacilik_sifre_giris_sistemi\\Bankacilik_sifre_giris_sistemi\\Program.cs",
+              "RelativeToolTip": "Bankacilik_sifre_giris_sistemi\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T20:57:31.926Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\2.s\u0131n\u0131f 2.d\u00F6nem g\u00F6rsel programlama\\4.\u00F6dev\\Bankacilik_sifre_giris_sistemi\\Bankacilik_sifre_giris_sistemi\\Form1.cs",
+              "RelativeDocumentMoniker": "Bankacilik_sifre_giris_sistemi\\Form1.cs",
+              "ToolTip": "D:\\2.s\u0131n\u0131f 2.d\u00F6nem g\u00F6rsel programlama\\4.\u00F6dev\\Bankacilik_sifre_giris_sistemi\\Bankacilik_sifre_giris_sistemi\\Form1.cs [Design]",
+              "RelativeToolTip": "Bankacilik_sifre_giris_sistemi\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T13:45:44.632Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\2.s\u0131n\u0131f 2.d\u00F6nem g\u00F6rsel programlama\\4.\u00F6dev\\Bankacilik_sifre_giris_sistemi\\Bankacilik_sifre_giris_sistemi\\Form1.cs",
+              "RelativeDocumentMoniker": "Bankacilik_sifre_giris_sistemi\\Form1.cs",
+              "ToolTip": "D:\\2.s\u0131n\u0131f 2.d\u00F6nem g\u00F6rsel programlama\\4.\u00F6dev\\Bankacilik_sifre_giris_sistemi\\Bankacilik_sifre_giris_sistemi\\Form1.cs",
+              "RelativeToolTip": "Bankacilik_sifre_giris_sistemi\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T13:52:31.668Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

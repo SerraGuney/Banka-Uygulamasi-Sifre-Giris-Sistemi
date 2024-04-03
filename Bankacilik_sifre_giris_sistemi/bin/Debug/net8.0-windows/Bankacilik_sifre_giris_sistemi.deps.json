@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Bankacilik_sifre_giris_sistemi/1.0.0": {
+        "runtime": {
+          "Bankacilik_sifre_giris_sistemi.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Bankacilik_sifre_giris_sistemi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
